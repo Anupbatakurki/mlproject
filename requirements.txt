@@ -7,4 +7,5 @@ ipykernel
 xgboost
 lightGBM
 catboost
+imblearn
 #-e .
